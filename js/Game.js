@@ -1,5 +1,5 @@
 class Game {
-  constructor() {}
+  constructor(){}
 
   start() {
     form = new Form();
